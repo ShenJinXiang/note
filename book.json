@@ -1,0 +1,37 @@
+{
+	"title": "笔记",
+	"author": "申锦祥",
+	"language": "zh-hans",
+    "gitbook": "3.2.3",
+	"structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "LikeStar": "https://www.shenjinxiang.com"
+        }
+    },
+	"plugins": [
+		"highlight",
+		"-sharing",
+		"-livereload",
+		"fontsettings",
+		"back-to-top-button",
+		"code",
+		"-lunr", "-search", 
+		"search-pro",
+		"splitter",
+		"custom-favicon",
+		"github"
+	],
+	"pluginsConfig": {
+		"favicon": "images/title.ico",
+		"search-pro": {
+			"cutWordLib": "nodejieba",
+			"defineWord" : ["Gitbook Use"]
+		},
+		"github": {
+			"url": "https://github.com/ShenJinXiang/note.git"
+		} 
+	}
+}

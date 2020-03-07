@@ -11,5 +11,6 @@
     * [《12个工作的基本》| 戴亚伶解读](./notes/iget/listenBooks/12个工作的基本.md)
     * [《中国国民性演变历程》Pro版 | 少文工作室解读](./notes/iget/listenBooks/中国国民性演变历程.md)
     * [《时间的形状》| 汪诘解读](./notes/iget/listenBooks/时间的形状.md)
-    * [《三体：地球往事》| 怀沙解读](./notes/iget/listenBooks/三体：地球往事.md)
+    * [《三体：地球往事》| 怀沙解读](c)
+    * [《三体Ⅱ：黑暗森林》| 怀沙解读](./notes/iget/listenBooks/三体Ⅱ：黑暗森林.md)
 

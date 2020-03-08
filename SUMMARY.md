@@ -13,4 +13,5 @@
     * [《时间的形状》| 汪诘解读](./notes/iget/listenBooks/时间的形状.md)
     * [《三体：地球往事》| 怀沙解读](c)
     * [《三体Ⅱ：黑暗森林》| 怀沙解读](./notes/iget/listenBooks/三体Ⅱ：黑暗森林.md)
+    * [《三体Ⅲ：死神永生》| 怀沙解读](./notes/iget/listenBooks/三体Ⅲ：死神永生.md)
 

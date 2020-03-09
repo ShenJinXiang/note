@@ -15,4 +15,5 @@
     * [《三体Ⅱ：黑暗森林》| 怀沙解读](./notes/iget/listenBooks/三体Ⅱ：黑暗森林.md)
     * [《三体Ⅲ：死神永生》| 怀沙解读](./notes/iget/listenBooks/三体Ⅲ：死神永生.md)
     * [《盲眼钟表匠》| 柴知道解读](./notes/iget/listenBooks/盲眼钟表匠.md)
+    * [《我们为什么还没有死掉》| 刘玄解读](./notes/iget/listenBooks/我们为什么还没有死掉.md)
 

@@ -23,16 +23,17 @@
 		"splitter",
 		"custom-favicon",
 		"github",
-        "expandable-chapters"
+        "expandable-chapters",
+        "popup"
 	],
 	"pluginsConfig": {
-		"favicon": "images/title.ico",
+		"favicon": "/images/title.ico",
 		"search-pro": {
 			"cutWordLib": "nodejieba",
 			"defineWord" : ["Gitbook Use"]
 		},
 		"github": {
-			"url": "https://github.com/ShenJinXiang/note.git"
+			"url": "https://github.com/ShenJinXiang/note"
 		} 
 	}
 }

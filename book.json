@@ -22,7 +22,8 @@
 		"search-pro",
 		"splitter",
 		"custom-favicon",
-		"github"
+		"github",
+        "expandable-chapters"
 	],
 	"pluginsConfig": {
 		"favicon": "images/title.ico",

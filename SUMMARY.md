@@ -8,6 +8,7 @@
     * [配置文件](./notes/java/springboot/配置文件.md)
 * [小问题汇集](./notes/questions/README.md)
     * [oracle异常停电](./notes/questions/oracle异常停电.md)
+    * [oracle创建表空间](./notes/questions/oracle创建表空间.md)
 * [得到-每天听本书](./notes/iget/listenBooks/README.md)
   
     * [《万万没想到》| 御风而来解读](./notes/iget/listenBooks/万万没想到.md)

@@ -24,7 +24,8 @@
 		"custom-favicon",
 		"github",
         "expandable-chapters",
-        "popup"
+        "popup",
+        "icp"
 	],
 	"pluginsConfig": {
 		"favicon": "/images/title.ico",
@@ -32,6 +33,10 @@
 			"cutWordLib": "nodejieba",
 			"defineWord" : ["Gitbook Use"]
 		},
+        "icp": {
+            "number": "晋ICP备19013438号",
+            "link": "http://www.beian.miit.gov.cn/"
+        },
 		"github": {
 			"url": "https://github.com/ShenJinXiang/note"
 		} 

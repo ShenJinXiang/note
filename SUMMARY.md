@@ -6,6 +6,7 @@
     * [HelloWord](./notes/java/springboot/HelloWorld.md)
     * [注解](./notes/java/springboot/注解.md)
     * [配置文件](./notes/java/springboot/配置文件.md)
+    * [Spring Boot中使用MyBatis](./notes/java/springboot/Spring Boot中使用MyBatis.md)
 * [小问题汇集](./notes/questions/README.md)
     * [oracle异常停电](./notes/questions/oracle异常停电.md)
     * [oracle创建表空间](./notes/questions/oracle创建表空间.md)

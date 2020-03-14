@@ -26,4 +26,5 @@
     * [《失效的科学：灾难是怎么发生的》| 良舟工作室解读](./notes/iget/listenBooks/失效的科学：灾难是怎么发生的.md)
     * [《四夷居中国》| 卞恒沁解读](./notes/iget/listenBooks/四夷居中国.md)
     * [《楚亡》| 高新原解读](./notes/iget/listenBooks/楚亡.md)
+    * [《大国宪制》| 段文强解读](./notes/iget/listenBooks/大国宪制.md)
 

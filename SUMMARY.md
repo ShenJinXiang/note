@@ -28,4 +28,5 @@
     * [《楚亡》| 高新原解读](./notes/iget/listenBooks/楚亡.md)
     * [《大国宪制》| 段文强解读](./notes/iget/listenBooks/大国宪制.md)
     * [《说中国》| 卞恒沁解读](./notes/iget/listenBooks/说中国.md)
+    * [《鸡征服世界》| 李南南解读](./notes/iget/listenBooks/鸡征服世界.md)
 

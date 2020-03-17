@@ -11,6 +11,7 @@
     * [oracle异常停电](./notes/questions/oracle异常停电.md)
     * [oracle创建表空间](./notes/questions/oracle创建表空间.md)
     * [解决idea下Terminal工具乱码](./notes/questions/解决idea下Terminal工具乱码.md)
+    * [Python类型转换函数](./notes/questions/python类型转换函数.md)
 * [得到-每天听本书](./notes/iget/listenBooks/README.md)
   
     * [《万万没想到》| 御风而来解读](./notes/iget/listenBooks/万万没想到.md)

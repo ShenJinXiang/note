@@ -287,7 +287,20 @@ public interface StudentMapper {
 ```
 
 ## 使用druid数据源
+pom.xml中引入druid
+
+```xml
+<dependency>
+    <groupId>com.alibaba</groupId>
+    <artifactId>druid-spring-boot-starter</artifactId>
+    <version>1.1.21</version>
+</dependency>
+```
+
+
+
 配置application.yml
+
 ```yml
 spring:
   datasource:

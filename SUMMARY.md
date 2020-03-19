@@ -32,4 +32,5 @@
     * [《鸡征服世界》| 李南南解读](./notes/iget/listenBooks/鸡征服世界.md)
     * [《清代地方政府》｜贾行家解读](./notes/iget/listenBooks/清代地方政府.md)
     * [《三案始末》| 许诺解读](./notes/iget/listenBooks/三案始末.md)
+    * [《思考，快与慢》| 汪恒解读](./notes/iget/listenBooks/思考，快与慢.md)
 

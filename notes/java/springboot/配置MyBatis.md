@@ -1,4 +1,4 @@
-# Spring Boot中使用MyBatis
+# 配置MyBatis
 ## 配置pom.xml
 ### 引入mybatis-spring-boot-starter
 ```xml

@@ -39,4 +39,5 @@
     * [《三案始末》| 许诺解读](./notes/iget/listenBooks/三案始末.md)
     * [《思考，快与慢》| 汪恒解读](./notes/iget/listenBooks/思考，快与慢.md)
     * [《武曌》| 卞恒沁解读](./notes/iget/listenBooks/武曌.md)
+    * [《把时间当作朋友》| 张凯解读](./notes/iget/listenBooks/把时间当作朋友.md)
 

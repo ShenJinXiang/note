@@ -42,4 +42,7 @@
     * [《把时间当作朋友》| 张凯解读](./notes/iget/listenBooks/把时间当作朋友.md)
     * [《国史大纲》| 段文强解读](./notes/iget/listenBooks/国史大纲.md)
     * [《阿尔比恩的种子》| 徐爽解读](./notes/iget/listenBooks/阿尔比恩的种子.md)
+    * [《中国文明起源新探》| 唐骋华解读](./notes/iget/listenBooks/中国文明起源新探.md)
+    * [《心智》| 李南南解读](./notes/iget/listenBooks/心智.md)
+    * [《如何学习》Pro版丨韩焱解读](./notes/iget/listenBooks/如何学习.md)
 

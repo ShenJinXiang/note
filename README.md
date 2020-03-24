@@ -49,4 +49,6 @@
 * [《中国文明起源新探》| 唐骋华解读](./notes/iget/listenBooks/中国文明起源新探.md)
 * [《心智》| 李南南解读](./notes/iget/listenBooks/心智.md)
 * [《如何学习》Pro版丨韩焱解读](./notes/iget/listenBooks/如何学习.md)
+* [《书读完了》｜贾行家解读](./notes/iget/listenBooks/书读完了.md)
+* [《超新星纪元》| 怀沙解读](./notes/iget/listenBooks/超新星纪元.md)
 

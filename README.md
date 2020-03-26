@@ -53,4 +53,5 @@
 * [《超新星纪元》| 怀沙解读](./notes/iget/listenBooks/超新星纪元.md)
 * [《玉石神话信仰与华夏精神》刘玄解读](./notes/iget/listenBooks/玉石神话信仰与华夏精神.md)
 * [《教父》| 李南南解读](./notes/iget/listenBooks/教父.md)
+* [《中国转向内在》| 盛珂解读](./notes/iget/listenBooks/中国转向内在.md)
 

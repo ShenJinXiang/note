@@ -55,4 +55,5 @@
 * [《教父》| 李南南解读](./notes/iget/listenBooks/教父.md)
 * [《中国转向内在》| 盛珂解读](./notes/iget/listenBooks/中国转向内在.md)
 * [《魔戒》三部曲｜黄昱宁工作室解读](./notes/iget/listenBooks/魔戒.md)
+* [《民族与文化》| 闫达解读](./notes/iget/listenBooks/民族与文化.md)
 

@@ -58,4 +58,5 @@
 * [《魔戒》三部曲｜黄昱宁工作室解读](./notes/iget/listenBooks/魔戒.md)
 * [《民族与文化》| 闫达解读](./notes/iget/listenBooks/民族与文化.md)
 * [《美第奇家族的兴衰》| 三木解读](./notes/iget/listenBooks/美第奇家族的兴衰.md)
+* [《拜占庭帝国》Pro版 | 東西堂主解读](./notes/iget/listenBooks/拜占庭帝国.md)
 

@@ -18,6 +18,7 @@
 * [解决idea下Terminal工具乱码](./notes/questions/解决idea下Terminal工具乱码.md)
 * [Python类型转换函数](./notes/questions/python类型转换函数.md)
 * [查看Oracle数据库所有的用户及表空间等](./notes/questions/查看Oracle数据库所有的用户及表空间等.md)
+* [maven打包配置](./notes/questions/maven打包配置.md)
 
 ## 得到
 

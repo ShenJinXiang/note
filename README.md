@@ -6,9 +6,8 @@
 
 * [环境准备](./notes/java/springboot/环境准备.md)
 * [HelloWord](./notes/java/springboot/HelloWorld.md)
-* [构建RESTful API](./notes/java/springboot/构建RESTful-API.md)
-* [注解](./notes/java/springboot/注解.md)
 * [配置文件](./notes/java/springboot/配置文件.md)
+* [构建RESTful API](./notes/java/springboot/构建RESTful-API.md)
 * [配置MyBatis](./notes/java/springboot/配置MyBatis.md)
 
 ## 小问题汇集

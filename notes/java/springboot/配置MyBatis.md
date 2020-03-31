@@ -172,20 +172,35 @@ public class StudentServiceImp implements StudentService {
 StudentController.java
 ```java
 @RestController
-@RequestMapping("/student")
+@RequestMapping("/students")
 public class StudentController {
 
     @Autowired
     private StudentService studentService;
 
-    @GetMapping("/queryAll")
+    @GetMapping("")
     public List<Student> queryAll() {
         return this.studentService.queryAll();
     }
 
-    @GetMapping("/queryById")
-    public Student queryById(int id) {
+    @GetMapping("/{id}")
+    public Student queryById(@PathVariable("id") int id) {
         return this.studentService.queryById(id);
+    }
+
+    @PostMapping("")
+    public int add(@RequestBody Student student) {
+        return this.studentService.add(student);
+    }
+
+    @PutMapping(value = "/{id}")
+    public int update(@PathVariable int id, @RequestBody Student student) {
+        return this.studentService.update(student);
+    }
+
+    @DeleteMapping("/{id}")
+    public int delById(@PathVariable("id") int id) {
+        return this.studentService.delById(id);
     }
 }
 ```

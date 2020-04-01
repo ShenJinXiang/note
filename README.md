@@ -59,4 +59,5 @@
 * [《美第奇家族的兴衰》| 三木解读](./notes/iget/listenBooks/美第奇家族的兴衰.md)
 * [《拜占庭帝国》Pro版 | 東西堂主解读](./notes/iget/listenBooks/拜占庭帝国.md)
 * [《抗战时代生活史》| 贾行家解读](./notes/iget/listenBooks/抗战时代生活史.md)
+* [《明治维新亲历记》| 青年维也纳解读](./notes/iget/listenBooks/明治维新亲历记.md)
 

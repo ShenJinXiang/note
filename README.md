@@ -62,4 +62,6 @@
 * [《明治维新亲历记》| 青年维也纳解读](./notes/iget/listenBooks/明治维新亲历记.md)
 * [《季风帝国》| 曲飞工作室解读](./notes/iget/listenBooks/季风帝国.md)
 * [《朝贡贸易与仗剑经商》| 萌露解读](./notes/iget/listenBooks/朝贡贸易与仗剑经商.md)
+* [《逝去的武林》｜贾行家解读](./notes/iget/listenBooks/逝去的武林.md)
+* [《迦太基必须毁灭》丨张笑宇解读](./notes/iget/listenBooks/迦太基必须毁灭.md)
 

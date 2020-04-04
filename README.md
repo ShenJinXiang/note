@@ -64,4 +64,6 @@
 * [《朝贡贸易与仗剑经商》| 萌露解读](./notes/iget/listenBooks/朝贡贸易与仗剑经商.md)
 * [《逝去的武林》｜贾行家解读](./notes/iget/listenBooks/逝去的武林.md)
 * [《迦太基必须毁灭》丨张笑宇解读](./notes/iget/listenBooks/迦太基必须毁灭.md)
+* [《如果没有今天，明天会不会有昨天》| 柴知道解读](./notes/iget/listenBooks/如果没有今天，明天会不会有昨天.md)
+* [《惠此中国》| 徐玲解读](./notes/iget/listenBooks/惠此中国.md)
 

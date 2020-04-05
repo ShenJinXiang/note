@@ -66,4 +66,6 @@
 * [《迦太基必须毁灭》丨张笑宇解读](./notes/iget/listenBooks/迦太基必须毁灭.md)
 * [《如果没有今天，明天会不会有昨天》| 柴知道解读](./notes/iget/listenBooks/如果没有今天，明天会不会有昨天.md)
 * [《惠此中国》| 徐玲解读](./notes/iget/listenBooks/惠此中国.md)
+* [《地光》| 怀沙解读](./notes/iget/listenBooks/地光.md)
+* [《基地》| 怀沙解读](./notes/iget/listenBooks/基地.md)
 

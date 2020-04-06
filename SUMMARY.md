@@ -67,4 +67,5 @@
     * [《惠此中国》| 徐玲解读](./notes/iget/listenBooks/惠此中国.md)
     * [《地光》| 怀沙解读](./notes/iget/listenBooks/地光.md)
     * [《基地》| 怀沙解读](./notes/iget/listenBooks/基地.md)
+    * [《大国雄心》| 苗博特解读](./notes/iget/listenBooks/大国雄心.md)
 

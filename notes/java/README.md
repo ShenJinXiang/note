@@ -6,4 +6,5 @@
   * [配置文件](./springboot/配置文件.md)
   * [构建RESTful API](./springboot/构建RESTful-API.md)
   * [配置MyBatis](./springboot/配置MyBatis.md)
+  * [配置MyBatis多数据源](./springboot/配置MyBatis多数据源.md)
 

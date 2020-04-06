@@ -19,6 +19,7 @@
 * [Python类型转换函数](./notes/questions/python类型转换函数.md)
 * [查看Oracle数据库所有的用户及表空间等](./notes/questions/查看Oracle数据库所有的用户及表空间等.md)
 * [maven打包配置](./notes/questions/maven打包配置.md)
+* [python常用字符串函数](./notes/questions/python常用字符串函数.md)
 
 ## 得到
 

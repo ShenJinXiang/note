@@ -489,9 +489,9 @@ public interface BookMapper {
 
     <insert id="add" parameterType="com.shenjinxiang.spb.domain.Student" >
         INSERT INTO student
-        (`id`, `name`, `age`, `sex`, `desc` )
+        (`name`, `age`, `sex`, `desc` )
         VALUES
-        (#{id}, #{name}, #{age}, #{sex}, #{desc})
+        (#{name}, #{age}, #{sex}, #{desc})
     </insert>
 
     <update id="upd" parameterType="com.shenjinxiang.spb.domain.Student">
@@ -545,9 +545,9 @@ public interface BookMapper {
 
     <insert id="add" parameterType="com.shenjinxiang.spb.domain.Emperor">
         INSERT INTO emperor
-        (`id`, `name`, `dynasty`)
+        (`name`, `dynasty`)
         VALUES
-        (#{id}, #{name}, #{dynasty})
+        (#{name}, #{dynasty})
     </insert>
 
     <update id="upd" parameterType="com.shenjinxiang.spb.domain.Emperor">
@@ -597,7 +597,7 @@ public interface BookMapper {
         </where>
     </select>
 
-    <insert id="add" parameterType="com.shenjinxiang.spb.domain.Emperor">
+    <insert id="add" parameterType="com.shenjinxiang.spb.domain.Book">
         <selectKey keyProperty="id" resultType="java.lang.Integer" order="BEFORE">
             SELECT SEQ_BOOK_ID.NEXTVAL FROM DUAL
         </selectKey>
@@ -607,7 +607,7 @@ public interface BookMapper {
         (#{id}, #{name}, #{author})
     </insert>
 
-    <update id="upd" parameterType="com.shenjinxiang.spb.domain.Emperor">
+    <update id="upd" parameterType="com.shenjinxiang.spb.domain.Book">
         UPDATE BOOK
         <set>
             NAME = #{name},

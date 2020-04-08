@@ -274,9 +274,9 @@ public interface StudentMapper {
 
     <insert id="add" parameterType="com.shenjinxiang.spb.bean.Student" >
         insert into student
-        (`id`, `name`, `age`, `sex`, `desc` )
+        (`name`, `age`, `sex`, `desc` )
         values
-        (#{id}, #{name}, #{age}, #{sex}, #{desc})
+        (#{name}, #{age}, #{sex}, #{desc})
     </insert>
 
     <update id="update" parameterType="com.shenjinxiang.spb.bean.Student">

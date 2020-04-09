@@ -11,15 +11,18 @@
         * [构建RESTful API](./notes/java/springboot/构建RESTful-API.md)
         * [配置MyBatis](./notes/java/springboot/配置MyBatis.md)
         * [配置MyBatis多数据源](./notes/java/springboot/配置MyBatis多数据源.md)
-
+* [python](./notes/python/README.md)
+    * [基础](./notes/python/基础/README.md)
+        * [类型转换函数](./notes/python/基础/python类型转换函数.md)
+        * [常用字符串函数](./notes/python/基础/python常用字符串函数.md)
+        * [文件处理](./notes/python/基础/文件处理.md)
+    
 * [小问题汇集](./notes/questions/README.md)
     * [oracle异常停电](./notes/questions/oracle异常停电.md)
     * [oracle创建表空间](./notes/questions/oracle创建表空间.md)
     * [解决idea下Terminal工具乱码](./notes/questions/解决idea下Terminal工具乱码.md)
-    * [Python类型转换函数](./notes/questions/python类型转换函数.md)
     * [查看Oracle数据库所有的用户及表空间等](./notes/questions/查看Oracle数据库所有的用户及表空间等.md)
     * [maven打包配置](./notes/questions/maven打包配置.md)
-    * [python常用字符串函数](./notes/questions/python常用字符串函数.md)
     
 * [得到-每天听本书](./notes/iget/listenBooks/README.md)
     * [《万万没想到》| 御风而来解读](./notes/iget/listenBooks/万万没想到.md)

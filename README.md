@@ -11,6 +11,14 @@
 * [配置MyBatis](./notes/java/springboot/配置MyBatis.md)
 * [配置MyBatis多数据源](./notes/java/springboot/配置MyBatis多数据源.md)
 
+## python
+
+### 基础
+* [类型转换函数](./notes/python/基础/python类型转换函数.md)
+* [常用字符串函数](./notes/python/基础/python常用字符串函数.md)
+* [文件处理](./notes/python/基础/文件处理.md)
+
+
 ## 小问题汇集
 
 * [oracle异常停电](./notes/questions/oracle异常停电.md)

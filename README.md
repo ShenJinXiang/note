@@ -80,5 +80,6 @@
 * [《基地》| 怀沙解读](./notes/iget/listenBooks/基地.md)
 * [《大国雄心》| 苗博特解读](./notes/iget/listenBooks/大国雄心.md)
 * [《秦汉仕进制度》| 卞恒沁解读](./notes/iget/listenBooks/秦汉仕进制度.md)
-* [《广岛》| 张晓琳解读](./notes/iget/listenBooks/广岛.md)
+* [《广岛》| 张晓琳解读](c广岛.md)
+* [《盲视》| 陈楸帆工作室解读](./notes/iget/listenBooks/盲视.md)
 

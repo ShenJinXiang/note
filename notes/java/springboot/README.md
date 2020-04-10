@@ -7,3 +7,4 @@
 * [配置MyBatis](./配置MyBatis.md)
 * [配置MyBatis多数据源](./配置MyBatis多数据源.md)
 * [IntelliJ IDEA热部署](./idea热部署.md)
+* [使用thymeleaf](./使用thymeleaf.md)

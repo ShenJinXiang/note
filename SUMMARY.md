@@ -12,6 +12,7 @@
         * [配置MyBatis](./notes/java/springboot/配置MyBatis.md)
         * [配置MyBatis多数据源](./notes/java/springboot/配置MyBatis多数据源.md)
         * [IntelliJ IDEA热部署](./notes/java/springboot/idea热部署.md)
+        * [使用thymeleaf](./notes/java/springboot/使用thymeleaf.md)
 * [python](./notes/python/README.md)
     * [基础](./notes/python/基础/README.md)
         * [类型转换函数](./notes/python/基础/python类型转换函数.md)

@@ -162,5 +162,33 @@ body {margin: 0px; padding: 0px;}
 }
 ```
 
+## 目录结构
+```
+Spring-Boot-Thymeleaf
+|-- pom.xml
+|-- src
+    |-- main
+        |-- java
+        |   |-- com
+        |       |-- shenjinxiang
+        |           |-- spb
+        |               |-- controller
+        |               |   |-- StudentController.java
+        |               |   
+        |               |-- domain
+        |               |   |-- Student.java
+        |               |   
+        |               |-- Start.java
+        |
+        |-- resource
+            |-- application.yml
+            |-- static
+            |   |-- css
+            |       |-- style.css
+            |       
+            |-- templates
+                |-- student.html
+```
+
 ## 访问结果
 ![](./images/20200410093101.png)

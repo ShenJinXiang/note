@@ -85,4 +85,5 @@
 * [《广岛》| 张晓琳解读](c广岛.md)
 * [《盲视》| 陈楸帆工作室解读](./notes/iget/listenBooks/盲视.md)
 * [《华杉讲透孙子兵法》| 张凯解读](./notes/iget/listenBooks/华杉讲透孙子兵法.md)
+* [《扪虱谈鬼录》｜贾行家解读](./notes/iget/listenBooks/扪虱谈鬼录.md)
 

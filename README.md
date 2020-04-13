@@ -88,4 +88,5 @@
 * [《华杉讲透孙子兵法》| 张凯解读](./notes/iget/listenBooks/华杉讲透孙子兵法.md)
 * [《扪虱谈鬼录》｜贾行家解读](./notes/iget/listenBooks/扪虱谈鬼录.md)
 * [《洪宪帝制外交》| 大象公会解读](./notes/iget/listenBooks/洪宪帝制外交.md)
+* [《强力与弱力》| 曹天元解读](./notes/iget/listenBooks/强力与弱力.md)
 

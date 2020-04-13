@@ -11,6 +11,7 @@
 * [配置MyBatis](./notes/java/springboot/配置MyBatis.md)
 * [配置MyBatis多数据源](./notes/java/springboot/配置MyBatis多数据源.md)
 * [IntelliJ IDEA热部署](./notes/java/springboot/idea热部署.md)
+* [AOP操作](./notes/java/springboot/aop操作.md)
 * [使用thymeleaf](./notes/java/springboot/使用thymeleaf.md)
 
 ## python

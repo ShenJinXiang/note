@@ -90,4 +90,5 @@
 * [《洪宪帝制外交》| 大象公会解读](./notes/iget/listenBooks/洪宪帝制外交.md)
 * [《强力与弱力》| 曹天元解读](./notes/iget/listenBooks/强力与弱力.md)
 * [《北平历史地理》| 大象公会解读](./notes/iget/listenBooks/北平历史地理.md)
+* [《谁将主宰世界》| 曲飞工作室解读](./notes/iget/listenBooks/谁将主宰世界.md)
 

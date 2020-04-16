@@ -31,6 +31,7 @@
 * [查看Oracle数据库所有的用户及表空间等](./notes/questions/查看Oracle数据库所有的用户及表空间等.md)
 * [maven打包配置](./notes/questions/maven打包配置.md)
 * [python常用字符串函数](./notes/questions/python常用字符串函数.md)
+* [logback配置](./notes/questions/logback配置.md)
 
 ## 得到
 

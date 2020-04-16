@@ -93,4 +93,5 @@
 * [《北平历史地理》| 大象公会解读](./notes/iget/listenBooks/北平历史地理.md)
 * [《谁将主宰世界》| 曲飞工作室解读](./notes/iget/listenBooks/谁将主宰世界.md)
 * [《文明的口味》| 苗炜工作室解读](./notes/iget/listenBooks/文明的口味.md)
+* [《锈蚀》| 砚尘解读](./notes/iget/listenBooks/锈蚀.md)
 

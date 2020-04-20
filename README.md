@@ -98,4 +98,5 @@
 * [《美利坚共和国的衰落》|《读书》杂志社解读](./notes/iget/listenBooks/美利坚共和国的衰落.md)
 * [《树上的男爵》| 李迪迪解读](./notes/iget/listenBooks/树上的男爵.md)
 * [《数学与人类文明》| 寒石解读](./notes/iget/listenBooks/数学与人类文明.md)
+* [《盐糖脂》| 耶律瑾解读](./notes/iget/listenBooks/盐糖脂.md)
 

@@ -13,6 +13,7 @@
 * [IntelliJ IDEA热部署](./notes/java/springboot/idea热部署.md)
 * [AOP操作](./notes/java/springboot/aop操作.md)
 * [使用thymeleaf](./notes/java/springboot/使用thymeleaf.md)
+* [连接Redis](./notes/java/springboot/连接Redis.md)
 
 ## python
 

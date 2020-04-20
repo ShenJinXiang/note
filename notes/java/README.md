@@ -10,4 +10,5 @@
   * [IntelliJ IDEA热部署](./springboot/idea热部署.md)
   * [AOP操作](./springboot/aop操作.md)
   * [使用thymeleaf](./springboot/使用thymeleaf.md)
+  * [连接Redis](./springboot/连接Redis.md)
 

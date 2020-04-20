@@ -9,3 +9,4 @@
 * [IntelliJ IDEA热部署](./idea热部署.md)
 * [AOP操作](./aop操作.md)
 * [使用thymeleaf](./使用thymeleaf.md)
+* [连接Redis](./连接Redis.md)

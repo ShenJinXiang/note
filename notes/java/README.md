@@ -11,4 +11,6 @@
   * [AOP操作](./springboot/aop操作.md)
   * [使用thymeleaf](./springboot/使用thymeleaf.md)
   * [连接Redis](./springboot/连接Redis.md)
+  * [使用Redis缓存数据](./springboot/使用Redis缓存数据.md)
+  * [使用Encache缓存数据](./springboot/使用Encache缓存数据.md)
 

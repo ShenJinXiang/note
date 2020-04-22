@@ -15,6 +15,8 @@
         * [AOP操作](./notes/java/springboot/aop操作.md)
         * [使用thymeleaf](./notes/java/springboot/使用thymeleaf.md)
         * [连接Redis](./notes/java/springboot/连接Redis.md)
+        * [使用Redis缓存数据](./notes/java/springboot/使用Redis缓存数据.md)
+        * [使用Encache缓存数据](./notes/java/springboot/使用Encache缓存数据.md)
 * [python](./notes/python/README.md)
     * [基础](./notes/python/基础/README.md)
         * [类型转换函数](./notes/python/基础/python类型转换函数.md)

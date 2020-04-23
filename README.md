@@ -35,6 +35,7 @@
 * [maven打包配置](./notes/questions/maven打包配置.md)
 * [python常用字符串函数](./notes/questions/python常用字符串函数.md)
 * [logback配置](./notes/questions/logback配置.md)
+* [Python3中Crypto找不到问题处理](./notes/questions/Python3中Crypto找不到问题.md)
 
 ## 得到
 
@@ -102,4 +103,5 @@
 * [《数学与人类文明》| 寒石解读](./notes/iget/listenBooks/数学与人类文明.md)
 * [《盐糖脂》| 耶律瑾解读](./notes/iget/listenBooks/盐糖脂.md)
 * [《原则》| 远读重洋解读](./notes/iget/listenBooks/原则.md)
+* [《蚂蚁的社会》| 怀沙解读](./notes/iget/listenBooks/蚂蚁的社会.md)
 

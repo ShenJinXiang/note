@@ -30,6 +30,7 @@
     * [查看Oracle数据库所有的用户及表空间等](./notes/questions/查看Oracle数据库所有的用户及表空间等.md)
     * [maven打包配置](./notes/questions/maven打包配置.md)
     * [logback配置](./notes/questions/logback配置.md)
+    * [Python3中Crypto找不到问题处理](./notes/questions/Python3中Crypto找不到问题.md)
     
 * [得到-每天听本书](./notes/iget/listenBooks/README.md)
     * [《万万没想到》| 御风而来解读](./notes/iget/listenBooks/万万没想到.md)
@@ -94,4 +95,5 @@
     * [《数学与人类文明》| 寒石解读](./notes/iget/listenBooks/数学与人类文明.md)
     * [《盐糖脂》| 耶律瑾解读](./notes/iget/listenBooks/盐糖脂.md)
     * [《原则》| 远读重洋解读](./notes/iget/listenBooks/原则.md)
+    * [《蚂蚁的社会》| 怀沙解读](./notes/iget/listenBooks/蚂蚁的社会.md)
 

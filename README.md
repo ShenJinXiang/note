@@ -105,4 +105,5 @@
 * [《原则》| 远读重洋解读](./notes/iget/listenBooks/原则.md)
 * [《蚂蚁的社会》| 怀沙解读](./notes/iget/listenBooks/蚂蚁的社会.md)
 * [《莫扎特的成败》| 陆晶靖解读](./notes/iget/listenBooks/莫扎特的成败.md)
+* [《季羡林谈人生》｜贾行家解读](./notes/iget/listenBooks/季羡林谈人生.md)
 

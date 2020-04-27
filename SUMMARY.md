@@ -98,4 +98,5 @@
     * [《蚂蚁的社会》| 怀沙解读](./notes/iget/listenBooks/蚂蚁的社会.md)
     * [《莫扎特的成败》| 陆晶靖解读](./notes/iget/listenBooks/莫扎特的成败.md)
     * [《季羡林谈人生》｜贾行家解读](./notes/iget/listenBooks/季羡林谈人生.md)
+    * [《未来的工作》| 时康洁解读](./notes/iget/listenBooks/未来的工作.md)
 

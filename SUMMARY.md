@@ -100,4 +100,5 @@
     * [《季羡林谈人生》｜贾行家解读](./notes/iget/listenBooks/季羡林谈人生.md)
     * [《未来的工作》| 时康洁解读](./notes/iget/listenBooks/未来的工作.md)
     * [《雪隐鹭鸶》| 刘玄解读](./notes/iget/listenBooks/雪隐鹭鸶.md)
+    * [《天堂的电脑》| 李迪迪解读](./notes/iget/listenBooks/天堂的电脑.md)
 

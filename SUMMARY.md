@@ -101,4 +101,5 @@
     * [《未来的工作》| 时康洁解读](./notes/iget/listenBooks/未来的工作.md)
     * [《雪隐鹭鸶》| 刘玄解读](./notes/iget/listenBooks/雪隐鹭鸶.md)
     * [《天堂的电脑》| 李迪迪解读](./notes/iget/listenBooks/天堂的电脑.md)
+    * [《文化不是味精》| 贾行家解读](./notes/iget/listenBooks/文化不是味精.md)
 

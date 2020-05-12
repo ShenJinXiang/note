@@ -32,6 +32,7 @@
     * [maven打包配置](./notes/questions/maven打包配置.md)
     * [logback配置](./notes/questions/logback配置.md)
     * [Python3中Crypto找不到问题处理](./notes/questions/Python3中Crypto找不到问题.md)
+    * [linux系统Tomcat无法访问软连接的处理](./notes/questions/linux系统Tomcat无法访问软连接的处理.md)
     
 * [得到-每天听本书](./notes/iget/listenBooks/README.md)
     * [《万万没想到》| 御风而来解读](./notes/iget/listenBooks/万万没想到.md)

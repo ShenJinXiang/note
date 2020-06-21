@@ -3,6 +3,7 @@
 * [环境准备](./环境准备.md)
 * [HelloWorld](./HelloWorld.md)
 * [配置文件](./配置文件.md)
+* [启动时初始化资源](./启动时初始化资源.md)
 * [构建RESTful API](./构建RESTful-API.md)
 * [配置MyBatis](./配置MyBatis.md)
 * [配置MyBatis多数据源](./配置MyBatis多数据源.md)

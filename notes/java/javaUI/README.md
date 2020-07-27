@@ -4,7 +4,7 @@
 
 ```java
 Dimension dimension = Toolkit.getDefaultToolkit().getScreenSize();
-jFrame.setBounds(0, 0, 200, 180);
+jframe.setSize(dimension.width, dimension.height);
 ```
 
 ## 设置最大化

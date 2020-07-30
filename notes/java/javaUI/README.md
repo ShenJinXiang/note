@@ -13,3 +13,16 @@ jframe.setSize(dimension.width, dimension.height);
 jFrame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 ```
 
+## 是否显示标题栏
+
+```java
+jFrame.setUndecorated(true)
+```
+
+## 设置按钮背景色
+
+```java
+jButton.setOpaque(true);
+jButton.setBackground(Color.white);
+```
+

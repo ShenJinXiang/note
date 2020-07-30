@@ -26,3 +26,16 @@ jButton.setOpaque(true);
 jButton.setBackground(Color.white);
 ```
 
+## 鼠标事件
+
+```java
+panel.addMouseListener(new MouseAdapter() {
+    @Override
+    public void mouseClicked(MouseEvent e) {
+        if (e.getClickCount() >= 2) {
+           // ...
+        }
+    }
+});
+```
+

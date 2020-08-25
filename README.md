@@ -42,6 +42,7 @@
 * [logback配置](./notes/questions/logback配置.md)
 * [Python3中Crypto找不到问题处理](./notes/questions/Python3中Crypto找不到问题.md)
 * [linux系统Tomcat无法访问软连接的处理](./notes/questions/linux系统Tomcat无法访问软连接的处理.md)
+* [git相关](./notes/questions/git相关.md)
 
 ## 得到
 

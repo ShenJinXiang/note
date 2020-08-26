@@ -28,6 +28,7 @@
 * [常用字符串函数](./notes/python/基础/python常用字符串函数.md)
 * [文件处理](./notes/python/基础/文件处理.md)
 * [click命令行](./notes/python/基础/click命令行.md)
+* [简单例子](./notes/python/基础/简单例子.md)
 
 
 ## 小问题汇集

@@ -22,7 +22,15 @@ create tablespace ssyh datafile 'E:\oracleDB\SSYH.dbf' size 200m autoextend on;
 create user SSYH_XTGLY identified by "a123456" default tablespace SSYH;
 ```
 
+### 修改用户密码
 
+> alter user 用户名 identified by 密码;
+
+**示例**
+
+```sql
+alter user jgywz identified by jgywz123;
+```
 
 ## 删除用户
 

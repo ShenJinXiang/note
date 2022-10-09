@@ -21,6 +21,9 @@
 * [使用jsoup防御XSS攻击](./notes/java/springboot/使用jsoup防御XSS攻击.md)
 * [异步调用](./notes/java/springboot/异步调用.md)
 
+### Netty
+* [搭建服务](./notes/java/netty/搭建服务.md)
+
 ## python
 
 ### 基础
